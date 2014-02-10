@@ -58,7 +58,6 @@
     <file src="Views\Shared\_LoginPartial.cshtml" target="Views\Shared\_LoginPartial.cshtml" />
     <file src="bin\Antlr3.Runtime.dll" target="bin\Antlr3.Runtime.dll" />
     <file src="bin\Bambizzel.dll" target="bin\Bambizzel.dll" />
-    <file src="bin\Bambizzel.dll.config" target="bin\Bambizzel.dll.config" />
     <file src="bin\EntityFramework.dll" target="bin\EntityFramework.dll" />
     <file src="bin\EntityFramework.SqlServer.dll" target="bin\EntityFramework.SqlServer.dll" />
     <file src="bin\EntityFramework.SqlServer.xml" target="bin\EntityFramework.SqlServer.xml" />
