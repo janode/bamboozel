@@ -1,0 +1,118 @@
+<package>
+  <metadata>
+    <id>Bambizzel</id>
+    <version>1.0.0.0</version>
+    <authors>jan.odegard</authors>
+    <owners>jan.odegard</owners>
+    <licenseUrl>http://example.com</licenseUrl>
+    <projectUrl>http://example.com</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>The Bambizzel deployment package, built on 10.02.2014</description>
+    <releaseNotes></releaseNotes>
+  </metadata>
+  <files>
+    <file src="C:\Users\jan.odegard\Documents\Visual Studio 2013\Projects\Bambizzel\Bambizzel\Content\bootstrap-theme.css" target="Content\bootstrap-theme.css" />
+    <file src="C:\Users\jan.odegard\Documents\Visual Studio 2013\Projects\Bambizzel\Bambizzel\Content\bootstrap-theme.min.css" target="Content\bootstrap-theme.min.css" />
+    <file src="C:\Users\jan.odegard\Documents\Visual Studio 2013\Projects\Bambizzel\Bambizzel\Content\bootstrap.css" target="Content\bootstrap.css" />
+    <file src="C:\Users\jan.odegard\Documents\Visual Studio 2013\Projects\Bambizzel\Bambizzel\Content\bootstrap.min.css" target="Content\bootstrap.min.css" />
+    <file src="C:\Users\jan.odegard\Documents\Visual Studio 2013\Projects\Bambizzel\Bambizzel\favicon.ico" target="favicon.ico" />
+    <file src="C:\Users\jan.odegard\Documents\Visual Studio 2013\Projects\Bambizzel\Bambizzel\fonts\glyphicons-halflings-regular.svg" target="fonts\glyphicons-halflings-regular.svg" />
+    <file src="C:\Users\jan.odegard\Documents\Visual Studio 2013\Projects\Bambizzel\Bambizzel\Global.asax" target="Global.asax" />
+    <file src="C:\Users\jan.odegard\Documents\Visual Studio 2013\Projects\Bambizzel\Bambizzel\Content\Site.css" target="Content\Site.css" />
+    <file src="C:\Users\jan.odegard\Documents\Visual Studio 2013\Projects\Bambizzel\Bambizzel\fonts\glyphicons-halflings-regular.woff" target="fonts\glyphicons-halflings-regular.woff" />
+    <file src="C:\Users\jan.odegard\Documents\Visual Studio 2013\Projects\Bambizzel\Bambizzel\fonts\glyphicons-halflings-regular.ttf" target="fonts\glyphicons-halflings-regular.ttf" />
+    <file src="C:\Users\jan.odegard\Documents\Visual Studio 2013\Projects\Bambizzel\Bambizzel\fonts\glyphicons-halflings-regular.eot" target="fonts\glyphicons-halflings-regular.eot" />
+    <file src="C:\Users\jan.odegard\Documents\Visual Studio 2013\Projects\Bambizzel\Bambizzel\Content\bootstrap-theme.css.map" target="Content\bootstrap-theme.css.map" />
+    <file src="C:\Users\jan.odegard\Documents\Visual Studio 2013\Projects\Bambizzel\Bambizzel\Content\bootstrap.css.map" target="Content\bootstrap.css.map" />
+    <file src="C:\Users\jan.odegard\Documents\Visual Studio 2013\Projects\Bambizzel\Bambizzel\Scripts\bootstrap.js" target="Scripts\bootstrap.js" />
+    <file src="C:\Users\jan.odegard\Documents\Visual Studio 2013\Projects\Bambizzel\Bambizzel\Scripts\bootstrap.min.js" target="Scripts\bootstrap.min.js" />
+    <file src="C:\Users\jan.odegard\Documents\Visual Studio 2013\Projects\Bambizzel\Bambizzel\Scripts\jquery-2.1.0.js" target="Scripts\jquery-2.1.0.js" />
+    <file src="C:\Users\jan.odegard\Documents\Visual Studio 2013\Projects\Bambizzel\Bambizzel\Scripts\jquery-2.1.0.min.js" target="Scripts\jquery-2.1.0.min.js" />
+    <file src="C:\Users\jan.odegard\Documents\Visual Studio 2013\Projects\Bambizzel\Bambizzel\Scripts\jquery-2.1.0.min.map" target="Scripts\jquery-2.1.0.min.map" />
+    <file src="C:\Users\jan.odegard\Documents\Visual Studio 2013\Projects\Bambizzel\Bambizzel\Scripts\jquery.validate.js" target="Scripts\jquery.validate.js" />
+    <file src="C:\Users\jan.odegard\Documents\Visual Studio 2013\Projects\Bambizzel\Bambizzel\Scripts\jquery.validate.min.js" target="Scripts\jquery.validate.min.js" />
+    <file src="C:\Users\jan.odegard\Documents\Visual Studio 2013\Projects\Bambizzel\Bambizzel\Scripts\jquery.validate.unobtrusive.js" target="Scripts\jquery.validate.unobtrusive.js" />
+    <file src="C:\Users\jan.odegard\Documents\Visual Studio 2013\Projects\Bambizzel\Bambizzel\Scripts\jquery.validate.unobtrusive.min.js" target="Scripts\jquery.validate.unobtrusive.min.js" />
+    <file src="C:\Users\jan.odegard\Documents\Visual Studio 2013\Projects\Bambizzel\Bambizzel\Scripts\modernizr-2.7.1.js" target="Scripts\modernizr-2.7.1.js" />
+    <file src="C:\Users\jan.odegard\Documents\Visual Studio 2013\Projects\Bambizzel\Bambizzel\Scripts\respond.js" target="Scripts\respond.js" />
+    <file src="C:\Users\jan.odegard\Documents\Visual Studio 2013\Projects\Bambizzel\Bambizzel\Scripts\respond.min.js" target="Scripts\respond.min.js" />
+    <file src="C:\Users\jan.odegard\Documents\Visual Studio 2013\Projects\Bambizzel\Bambizzel\Scripts\_references.js" target="Scripts\_references.js" />
+    <file src="C:\Users\jan.odegard\Documents\Visual Studio 2013\Projects\Bambizzel\Bambizzel\Web.config" target="Web.config" />
+    <file src="C:\Users\jan.odegard\Documents\Visual Studio 2013\Projects\Bambizzel\Bambizzel\Web.Release.config" target="Web.Release.config" />
+    <file src="C:\Users\jan.odegard\Documents\Visual Studio 2013\Projects\Bambizzel\Bambizzel\Views\Web.config" target="Views\Web.config" />
+    <file src="C:\Users\jan.odegard\Documents\Visual Studio 2013\Projects\Bambizzel\Bambizzel\Views\_ViewStart.cshtml" target="Views\_ViewStart.cshtml" />
+    <file src="C:\Users\jan.odegard\Documents\Visual Studio 2013\Projects\Bambizzel\Bambizzel\Views\Shared\Error.cshtml" target="Views\Shared\Error.cshtml" />
+    <file src="C:\Users\jan.odegard\Documents\Visual Studio 2013\Projects\Bambizzel\Bambizzel\Views\Shared\_Layout.cshtml" target="Views\Shared\_Layout.cshtml" />
+    <file src="C:\Users\jan.odegard\Documents\Visual Studio 2013\Projects\Bambizzel\Bambizzel\Views\Home\About.cshtml" target="Views\Home\About.cshtml" />
+    <file src="C:\Users\jan.odegard\Documents\Visual Studio 2013\Projects\Bambizzel\Bambizzel\Views\Home\Contact.cshtml" target="Views\Home\Contact.cshtml" />
+    <file src="C:\Users\jan.odegard\Documents\Visual Studio 2013\Projects\Bambizzel\Bambizzel\Views\Home\Index.cshtml" target="Views\Home\Index.cshtml" />
+    <file src="C:\Users\jan.odegard\Documents\Visual Studio 2013\Projects\Bambizzel\Bambizzel\Views\Account\_ChangePasswordPartial.cshtml" target="Views\Account\_ChangePasswordPartial.cshtml" />
+    <file src="C:\Users\jan.odegard\Documents\Visual Studio 2013\Projects\Bambizzel\Bambizzel\Views\Account\_ExternalLoginsListPartial.cshtml" target="Views\Account\_ExternalLoginsListPartial.cshtml" />
+    <file src="C:\Users\jan.odegard\Documents\Visual Studio 2013\Projects\Bambizzel\Bambizzel\Views\Account\_RemoveAccountPartial.cshtml" target="Views\Account\_RemoveAccountPartial.cshtml" />
+    <file src="C:\Users\jan.odegard\Documents\Visual Studio 2013\Projects\Bambizzel\Bambizzel\Views\Account\_SetPasswordPartial.cshtml" target="Views\Account\_SetPasswordPartial.cshtml" />
+    <file src="C:\Users\jan.odegard\Documents\Visual Studio 2013\Projects\Bambizzel\Bambizzel\Views\Account\ExternalLoginConfirmation.cshtml" target="Views\Account\ExternalLoginConfirmation.cshtml" />
+    <file src="C:\Users\jan.odegard\Documents\Visual Studio 2013\Projects\Bambizzel\Bambizzel\Views\Account\ExternalLoginFailure.cshtml" target="Views\Account\ExternalLoginFailure.cshtml" />
+    <file src="C:\Users\jan.odegard\Documents\Visual Studio 2013\Projects\Bambizzel\Bambizzel\Views\Account\Login.cshtml" target="Views\Account\Login.cshtml" />
+    <file src="C:\Users\jan.odegard\Documents\Visual Studio 2013\Projects\Bambizzel\Bambizzel\Views\Account\Manage.cshtml" target="Views\Account\Manage.cshtml" />
+    <file src="C:\Users\jan.odegard\Documents\Visual Studio 2013\Projects\Bambizzel\Bambizzel\Views\Account\Register.cshtml" target="Views\Account\Register.cshtml" />
+    <file src="C:\Users\jan.odegard\Documents\Visual Studio 2013\Projects\Bambizzel\Bambizzel\Views\Shared\_LoginPartial.cshtml" target="Views\Shared\_LoginPartial.cshtml" />
+    <file src="C:\Users\jan.odegard\Documents\Visual Studio 2013\Projects\Bambizzel\Bambizzel\bin\Antlr3.Runtime.dll" target="bin\Antlr3.Runtime.dll" />
+    <file src="C:\Users\jan.odegard\Documents\Visual Studio 2013\Projects\Bambizzel\Bambizzel\bin\Antlr3.Runtime.pdb" target="bin\Antlr3.Runtime.pdb" />
+    <file src="C:\Users\jan.odegard\Documents\Visual Studio 2013\Projects\Bambizzel\Bambizzel\bin\Bambizzel.dll" target="bin\Bambizzel.dll" />
+    <file src="C:\Users\jan.odegard\Documents\Visual Studio 2013\Projects\Bambizzel\Bambizzel\bin\Bambizzel.dll.config" target="bin\Bambizzel.dll.config" />
+    <file src="C:\Users\jan.odegard\Documents\Visual Studio 2013\Projects\Bambizzel\Bambizzel\bin\Bambizzel.pdb" target="bin\Bambizzel.pdb" />
+    <file src="C:\Users\jan.odegard\Documents\Visual Studio 2013\Projects\Bambizzel\Bambizzel\bin\EntityFramework.dll" target="bin\EntityFramework.dll" />
+    <file src="C:\Users\jan.odegard\Documents\Visual Studio 2013\Projects\Bambizzel\Bambizzel\bin\EntityFramework.SqlServer.dll" target="bin\EntityFramework.SqlServer.dll" />
+    <file src="C:\Users\jan.odegard\Documents\Visual Studio 2013\Projects\Bambizzel\Bambizzel\bin\EntityFramework.SqlServer.xml" target="bin\EntityFramework.SqlServer.xml" />
+    <file src="C:\Users\jan.odegard\Documents\Visual Studio 2013\Projects\Bambizzel\Bambizzel\bin\EntityFramework.xml" target="bin\EntityFramework.xml" />
+    <file src="C:\Users\jan.odegard\Documents\Visual Studio 2013\Projects\Bambizzel\Bambizzel\bin\Microsoft.AspNet.Identity.Core.dll" target="bin\Microsoft.AspNet.Identity.Core.dll" />
+    <file src="C:\Users\jan.odegard\Documents\Visual Studio 2013\Projects\Bambizzel\Bambizzel\bin\Microsoft.AspNet.Identity.Core.xml" target="bin\Microsoft.AspNet.Identity.Core.xml" />
+    <file src="C:\Users\jan.odegard\Documents\Visual Studio 2013\Projects\Bambizzel\Bambizzel\bin\Microsoft.AspNet.Identity.EntityFramework.dll" target="bin\Microsoft.AspNet.Identity.EntityFramework.dll" />
+    <file src="C:\Users\jan.odegard\Documents\Visual Studio 2013\Projects\Bambizzel\Bambizzel\bin\Microsoft.AspNet.Identity.EntityFramework.xml" target="bin\Microsoft.AspNet.Identity.EntityFramework.xml" />
+    <file src="C:\Users\jan.odegard\Documents\Visual Studio 2013\Projects\Bambizzel\Bambizzel\bin\Microsoft.AspNet.Identity.Owin.dll" target="bin\Microsoft.AspNet.Identity.Owin.dll" />
+    <file src="C:\Users\jan.odegard\Documents\Visual Studio 2013\Projects\Bambizzel\Bambizzel\bin\Microsoft.AspNet.Identity.Owin.xml" target="bin\Microsoft.AspNet.Identity.Owin.xml" />
+    <file src="C:\Users\jan.odegard\Documents\Visual Studio 2013\Projects\Bambizzel\Bambizzel\bin\Microsoft.Owin.dll" target="bin\Microsoft.Owin.dll" />
+    <file src="C:\Users\jan.odegard\Documents\Visual Studio 2013\Projects\Bambizzel\Bambizzel\bin\Microsoft.Owin.Host.SystemWeb.dll" target="bin\Microsoft.Owin.Host.SystemWeb.dll" />
+    <file src="C:\Users\jan.odegard\Documents\Visual Studio 2013\Projects\Bambizzel\Bambizzel\bin\Microsoft.Owin.Host.SystemWeb.xml" target="bin\Microsoft.Owin.Host.SystemWeb.xml" />
+    <file src="C:\Users\jan.odegard\Documents\Visual Studio 2013\Projects\Bambizzel\Bambizzel\bin\Microsoft.Owin.Security.Cookies.dll" target="bin\Microsoft.Owin.Security.Cookies.dll" />
+    <file src="C:\Users\jan.odegard\Documents\Visual Studio 2013\Projects\Bambizzel\Bambizzel\bin\Microsoft.Owin.Security.Cookies.xml" target="bin\Microsoft.Owin.Security.Cookies.xml" />
+    <file src="C:\Users\jan.odegard\Documents\Visual Studio 2013\Projects\Bambizzel\Bambizzel\bin\Microsoft.Owin.Security.dll" target="bin\Microsoft.Owin.Security.dll" />
+    <file src="C:\Users\jan.odegard\Documents\Visual Studio 2013\Projects\Bambizzel\Bambizzel\bin\Microsoft.Owin.Security.Facebook.dll" target="bin\Microsoft.Owin.Security.Facebook.dll" />
+    <file src="C:\Users\jan.odegard\Documents\Visual Studio 2013\Projects\Bambizzel\Bambizzel\bin\Microsoft.Owin.Security.Facebook.xml" target="bin\Microsoft.Owin.Security.Facebook.xml" />
+    <file src="C:\Users\jan.odegard\Documents\Visual Studio 2013\Projects\Bambizzel\Bambizzel\bin\Microsoft.Owin.Security.Google.dll" target="bin\Microsoft.Owin.Security.Google.dll" />
+    <file src="C:\Users\jan.odegard\Documents\Visual Studio 2013\Projects\Bambizzel\Bambizzel\bin\Microsoft.Owin.Security.Google.xml" target="bin\Microsoft.Owin.Security.Google.xml" />
+    <file src="C:\Users\jan.odegard\Documents\Visual Studio 2013\Projects\Bambizzel\Bambizzel\bin\Microsoft.Owin.Security.MicrosoftAccount.dll" target="bin\Microsoft.Owin.Security.MicrosoftAccount.dll" />
+    <file src="C:\Users\jan.odegard\Documents\Visual Studio 2013\Projects\Bambizzel\Bambizzel\bin\Microsoft.Owin.Security.MicrosoftAccount.xml" target="bin\Microsoft.Owin.Security.MicrosoftAccount.xml" />
+    <file src="C:\Users\jan.odegard\Documents\Visual Studio 2013\Projects\Bambizzel\Bambizzel\bin\Microsoft.Owin.Security.OAuth.dll" target="bin\Microsoft.Owin.Security.OAuth.dll" />
+    <file src="C:\Users\jan.odegard\Documents\Visual Studio 2013\Projects\Bambizzel\Bambizzel\bin\Microsoft.Owin.Security.OAuth.xml" target="bin\Microsoft.Owin.Security.OAuth.xml" />
+    <file src="C:\Users\jan.odegard\Documents\Visual Studio 2013\Projects\Bambizzel\Bambizzel\bin\Microsoft.Owin.Security.Twitter.dll" target="bin\Microsoft.Owin.Security.Twitter.dll" />
+    <file src="C:\Users\jan.odegard\Documents\Visual Studio 2013\Projects\Bambizzel\Bambizzel\bin\Microsoft.Owin.Security.Twitter.xml" target="bin\Microsoft.Owin.Security.Twitter.xml" />
+    <file src="C:\Users\jan.odegard\Documents\Visual Studio 2013\Projects\Bambizzel\Bambizzel\bin\Microsoft.Owin.Security.xml" target="bin\Microsoft.Owin.Security.xml" />
+    <file src="C:\Users\jan.odegard\Documents\Visual Studio 2013\Projects\Bambizzel\Bambizzel\bin\Microsoft.Owin.xml" target="bin\Microsoft.Owin.xml" />
+    <file src="C:\Users\jan.odegard\Documents\Visual Studio 2013\Projects\Bambizzel\Bambizzel\bin\Microsoft.Web.Infrastructure.dll" target="bin\Microsoft.Web.Infrastructure.dll" />
+    <file src="C:\Users\jan.odegard\Documents\Visual Studio 2013\Projects\Bambizzel\Bambizzel\bin\Newtonsoft.Json.dll" target="bin\Newtonsoft.Json.dll" />
+    <file src="C:\Users\jan.odegard\Documents\Visual Studio 2013\Projects\Bambizzel\Bambizzel\bin\Newtonsoft.Json.xml" target="bin\Newtonsoft.Json.xml" />
+    <file src="C:\Users\jan.odegard\Documents\Visual Studio 2013\Projects\Bambizzel\Bambizzel\bin\Owin.dll" target="bin\Owin.dll" />
+    <file src="C:\Users\jan.odegard\Documents\Visual Studio 2013\Projects\Bambizzel\Bambizzel\bin\System.Net.Http.Formatting.dll" target="bin\System.Net.Http.Formatting.dll" />
+    <file src="C:\Users\jan.odegard\Documents\Visual Studio 2013\Projects\Bambizzel\Bambizzel\bin\System.Net.Http.Formatting.xml" target="bin\System.Net.Http.Formatting.xml" />
+    <file src="C:\Users\jan.odegard\Documents\Visual Studio 2013\Projects\Bambizzel\Bambizzel\bin\System.Web.Helpers.dll" target="bin\System.Web.Helpers.dll" />
+    <file src="C:\Users\jan.odegard\Documents\Visual Studio 2013\Projects\Bambizzel\Bambizzel\bin\System.Web.Helpers.xml" target="bin\System.Web.Helpers.xml" />
+    <file src="C:\Users\jan.odegard\Documents\Visual Studio 2013\Projects\Bambizzel\Bambizzel\bin\System.Web.Http.dll" target="bin\System.Web.Http.dll" />
+    <file src="C:\Users\jan.odegard\Documents\Visual Studio 2013\Projects\Bambizzel\Bambizzel\bin\System.Web.Http.WebHost.dll" target="bin\System.Web.Http.WebHost.dll" />
+    <file src="C:\Users\jan.odegard\Documents\Visual Studio 2013\Projects\Bambizzel\Bambizzel\bin\System.Web.Http.WebHost.xml" target="bin\System.Web.Http.WebHost.xml" />
+    <file src="C:\Users\jan.odegard\Documents\Visual Studio 2013\Projects\Bambizzel\Bambizzel\bin\System.Web.Http.xml" target="bin\System.Web.Http.xml" />
+    <file src="C:\Users\jan.odegard\Documents\Visual Studio 2013\Projects\Bambizzel\Bambizzel\bin\System.Web.Mvc.dll" target="bin\System.Web.Mvc.dll" />
+    <file src="C:\Users\jan.odegard\Documents\Visual Studio 2013\Projects\Bambizzel\Bambizzel\bin\System.Web.Mvc.xml" target="bin\System.Web.Mvc.xml" />
+    <file src="C:\Users\jan.odegard\Documents\Visual Studio 2013\Projects\Bambizzel\Bambizzel\bin\System.Web.Optimization.dll" target="bin\System.Web.Optimization.dll" />
+    <file src="C:\Users\jan.odegard\Documents\Visual Studio 2013\Projects\Bambizzel\Bambizzel\bin\System.Web.Optimization.xml" target="bin\System.Web.Optimization.xml" />
+    <file src="C:\Users\jan.odegard\Documents\Visual Studio 2013\Projects\Bambizzel\Bambizzel\bin\System.Web.Razor.dll" target="bin\System.Web.Razor.dll" />
+    <file src="C:\Users\jan.odegard\Documents\Visual Studio 2013\Projects\Bambizzel\Bambizzel\bin\System.Web.Razor.xml" target="bin\System.Web.Razor.xml" />
+    <file src="C:\Users\jan.odegard\Documents\Visual Studio 2013\Projects\Bambizzel\Bambizzel\bin\System.Web.WebPages.Deployment.dll" target="bin\System.Web.WebPages.Deployment.dll" />
+    <file src="C:\Users\jan.odegard\Documents\Visual Studio 2013\Projects\Bambizzel\Bambizzel\bin\System.Web.WebPages.Deployment.xml" target="bin\System.Web.WebPages.Deployment.xml" />
+    <file src="C:\Users\jan.odegard\Documents\Visual Studio 2013\Projects\Bambizzel\Bambizzel\bin\System.Web.WebPages.dll" target="bin\System.Web.WebPages.dll" />
+    <file src="C:\Users\jan.odegard\Documents\Visual Studio 2013\Projects\Bambizzel\Bambizzel\bin\System.Web.WebPages.Razor.dll" target="bin\System.Web.WebPages.Razor.dll" />
+    <file src="C:\Users\jan.odegard\Documents\Visual Studio 2013\Projects\Bambizzel\Bambizzel\bin\System.Web.WebPages.Razor.xml" target="bin\System.Web.WebPages.Razor.xml" />
+    <file src="C:\Users\jan.odegard\Documents\Visual Studio 2013\Projects\Bambizzel\Bambizzel\bin\System.Web.WebPages.xml" target="bin\System.Web.WebPages.xml" />
+    <file src="C:\Users\jan.odegard\Documents\Visual Studio 2013\Projects\Bambizzel\Bambizzel\bin\WebGrease.dll" target="bin\WebGrease.dll" />
+  </files>
+</package>
