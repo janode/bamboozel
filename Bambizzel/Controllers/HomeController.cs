@@ -22,7 +22,7 @@ namespace Bambizzel.Controllers
 
         public ActionResult Contact()
         {
-            ViewBag.Message = "Your contact";
+            ViewBag.Message = "Your contact page";
 
             return View();
         }
